@@ -1,6 +1,6 @@
 * {
     font-family:  Cambria;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 body {
@@ -13,4 +13,16 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow:3px 3px 3px black;
+}
+
+h1 {
+    font-size:20px;
+}
+
+h1, h2 {
+    color:rgb(110, 65, 110);
+}
+
+a {
+    text-decoration: none;
 }
